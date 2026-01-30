@@ -1,5 +1,5 @@
 # Name: Axel Cordova
-# Course: [Enter Course Number]
+# Course: CIS261
 # Lab Title: MovieGuidePart1
 
 def display_menu():
